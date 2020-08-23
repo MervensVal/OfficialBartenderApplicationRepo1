@@ -1,0 +1,41 @@
+﻿@model IEnumerable<IS_BartenderAppProject_MV.Models.Drink>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Upsert">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.DrinkName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DrinkCost)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.DrinkName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DrinkCost)
+            </td>
+            <td>
+                <a asp-action="Upsert" asp-route-id="@item.DrinkId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.DrinkId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.DrinkId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
