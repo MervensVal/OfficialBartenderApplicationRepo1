@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\valme\\source\\repos\\BartenderApplicationRepo12\\IS_BartenderAppProject_MV\\IS_BartenderAppProject_MV\\IS_BartenderAppProject_MV.csproj": {}
+    "C:\\Users\\valme\\source\\repos\\BartenderApplicationRepo1\\IS_BartenderAppProject_MV\\IS_BartenderAppProject_MV\\IS_BartenderAppProject_MV.csproj": {}
   },
   "projects": {
-    "C:\\Users\\valme\\source\\repos\\BartenderApplicationRepo12\\IS_BartenderAppProject_MV\\IS_BartenderAppProject_MV\\IS_BartenderAppProject_MV.csproj": {
+    "C:\\Users\\valme\\source\\repos\\BartenderApplicationRepo1\\IS_BartenderAppProject_MV\\IS_BartenderAppProject_MV\\IS_BartenderAppProject_MV.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\valme\\source\\repos\\BartenderApplicationRepo12\\IS_BartenderAppProject_MV\\IS_BartenderAppProject_MV\\IS_BartenderAppProject_MV.csproj",
+        "projectUniqueName": "C:\\Users\\valme\\source\\repos\\BartenderApplicationRepo1\\IS_BartenderAppProject_MV\\IS_BartenderAppProject_MV\\IS_BartenderAppProject_MV.csproj",
         "projectName": "IS_BartenderAppProject_MV",
-        "projectPath": "C:\\Users\\valme\\source\\repos\\BartenderApplicationRepo12\\IS_BartenderAppProject_MV\\IS_BartenderAppProject_MV\\IS_BartenderAppProject_MV.csproj",
+        "projectPath": "C:\\Users\\valme\\source\\repos\\BartenderApplicationRepo1\\IS_BartenderAppProject_MV\\IS_BartenderAppProject_MV\\IS_BartenderAppProject_MV.csproj",
         "packagesPath": "C:\\Users\\valme\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\valme\\source\\repos\\BartenderApplicationRepo12\\IS_BartenderAppProject_MV\\IS_BartenderAppProject_MV\\obj\\",
+        "outputPath": "C:\\Users\\valme\\source\\repos\\BartenderApplicationRepo1\\IS_BartenderAppProject_MV\\IS_BartenderAppProject_MV\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\valme\\AppData\\Roaming\\NuGet\\NuGet.Config",
