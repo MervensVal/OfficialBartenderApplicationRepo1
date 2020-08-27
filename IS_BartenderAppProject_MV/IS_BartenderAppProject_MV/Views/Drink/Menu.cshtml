@@ -1,0 +1,37 @@
+﻿@model IEnumerable<IS_BartenderAppProject_MV.Models.Drink>
+
+@{
+    ViewData["Title"] = "Menu";
+}
+
+<h1>Menu</h1>
+
+<p>
+    <!-- <a asp-action="Home">Order Drink</a>-->
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.DrinkName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DrinkCost)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DrinkName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DrinkCost)
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

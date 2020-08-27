@@ -17,6 +17,14 @@ namespace IS_BartenderAppProject_MV.Controllers
         {
             _context = context;
         }
+        //--------------------
+
+        // GET: Drink
+        public async Task<IActionResult> Menu()
+        {
+            return View(await _context.Drinks.ToListAsync());
+        }
+        //-------------------
 
         // GET: Drink
         public async Task<IActionResult> Index()
