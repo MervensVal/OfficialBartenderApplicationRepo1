@@ -327,7 +327,6 @@ C:\Users\valme\source\repos\BartenderApplicationRepo1\IS_BartenderAppProject_MV\
 C:\Users\valme\source\repos\BartenderApplicationRepo1\IS_BartenderAppProject_MV\IS_BartenderAppProject_MV\obj\Debug\netcoreapp3.1\IS_BartenderAppProject_MV.TagHelpers.input.cache
 C:\Users\valme\source\repos\BartenderApplicationRepo1\IS_BartenderAppProject_MV\IS_BartenderAppProject_MV\obj\Debug\netcoreapp3.1\IS_BartenderAppProject_MV.TagHelpers.output.cache
 C:\Users\valme\source\repos\BartenderApplicationRepo1\IS_BartenderAppProject_MV\IS_BartenderAppProject_MV\obj\Debug\netcoreapp3.1\IS_BartenderAppProject_MV.RazorCoreGenerate.cache
-C:\Users\valme\source\repos\BartenderApplicationRepo1\IS_BartenderAppProject_MV\IS_BartenderAppProject_MV\obj\Debug\netcoreapp3.1\Razor\Views\Drink\CustomerSelect.cshtml.g.cs
 C:\Users\valme\source\repos\BartenderApplicationRepo1\IS_BartenderAppProject_MV\IS_BartenderAppProject_MV\obj\Debug\netcoreapp3.1\Razor\Views\Drink\Delete.cshtml.g.cs
 C:\Users\valme\source\repos\BartenderApplicationRepo1\IS_BartenderAppProject_MV\IS_BartenderAppProject_MV\obj\Debug\netcoreapp3.1\Razor\Views\Drink\Details.cshtml.g.cs
 C:\Users\valme\source\repos\BartenderApplicationRepo1\IS_BartenderAppProject_MV\IS_BartenderAppProject_MV\obj\Debug\netcoreapp3.1\Razor\Views\Drink\Index.cshtml.g.cs
@@ -353,3 +352,4 @@ C:\Users\valme\source\repos\BartenderApplicationRepo1\IS_BartenderAppProject_MV\
 C:\Users\valme\source\repos\BartenderApplicationRepo1\IS_BartenderAppProject_MV\IS_BartenderAppProject_MV\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Details.cshtml.g.cs
 C:\Users\valme\source\repos\BartenderApplicationRepo1\IS_BartenderAppProject_MV\IS_BartenderAppProject_MV\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Edit.cshtml.g.cs
 C:\Users\valme\source\repos\BartenderApplicationRepo1\IS_BartenderAppProject_MV\IS_BartenderAppProject_MV\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Index.cshtml.g.cs
+C:\Users\valme\source\repos\BartenderApplicationRepo1\IS_BartenderAppProject_MV\IS_BartenderAppProject_MV\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Confirmation.cshtml.g.cs
