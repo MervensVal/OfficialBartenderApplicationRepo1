@@ -348,3 +348,8 @@ C:\Users\valme\source\repos\BartenderApplicationRepo1\IS_BartenderAppProject_MV\
 C:\Users\valme\source\repos\BartenderApplicationRepo1\IS_BartenderAppProject_MV\IS_BartenderAppProject_MV\obj\Debug\netcoreapp3.1\IS_BartenderAppProject_MV.pdb
 C:\Users\valme\source\repos\BartenderApplicationRepo1\IS_BartenderAppProject_MV\IS_BartenderAppProject_MV\obj\Debug\netcoreapp3.1\IS_BartenderAppProject_MV.genruntimeconfig.cache
 C:\Users\valme\source\repos\BartenderApplicationRepo1\IS_BartenderAppProject_MV\IS_BartenderAppProject_MV\obj\Debug\netcoreapp3.1\Razor\Views\Drink\Menu.cshtml.g.cs
+C:\Users\valme\source\repos\BartenderApplicationRepo1\IS_BartenderAppProject_MV\IS_BartenderAppProject_MV\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Create.cshtml.g.cs
+C:\Users\valme\source\repos\BartenderApplicationRepo1\IS_BartenderAppProject_MV\IS_BartenderAppProject_MV\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Delete.cshtml.g.cs
+C:\Users\valme\source\repos\BartenderApplicationRepo1\IS_BartenderAppProject_MV\IS_BartenderAppProject_MV\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Details.cshtml.g.cs
+C:\Users\valme\source\repos\BartenderApplicationRepo1\IS_BartenderAppProject_MV\IS_BartenderAppProject_MV\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Edit.cshtml.g.cs
+C:\Users\valme\source\repos\BartenderApplicationRepo1\IS_BartenderAppProject_MV\IS_BartenderAppProject_MV\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Index.cshtml.g.cs

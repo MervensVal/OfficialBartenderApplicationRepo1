@@ -1,0 +1,44 @@
+﻿@model IS_BartenderAppProject_MV.Models.Order
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Place Your Order!</h1>
+
+<h4>Try out our easy and fast system.</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="CustomerName" class="control-label"></label>
+                <input asp-for="CustomerName" class="form-control" />
+                <span asp-validation-for="CustomerName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TableNum" class="control-label"></label>
+                <input asp-for="TableNum" class="form-control" />
+                <span asp-validation-for="TableNum" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DrinkName" class="control-label"></label>
+                <input asp-for="DrinkName" class="form-control" />
+                <span asp-validation-for="DrinkName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Quantity" class="control-label"></label>
+                <input asp-for="Quantity" class="form-control" />
+                <span asp-validation-for="Quantity" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" asp-controller="Home" asp-action="Index" />
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

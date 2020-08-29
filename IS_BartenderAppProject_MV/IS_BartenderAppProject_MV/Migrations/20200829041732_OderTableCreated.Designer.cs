@@ -3,14 +3,16 @@ using IS_BartenderAppProject_MV.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace IS_BartenderAppProject_MV.Migrations
 {
     [DbContext(typeof(DrinksContext))]
-    partial class DrinksContextModelSnapshot : ModelSnapshot
+    [Migration("20200829041732_OderTableCreated")]
+    partial class OderTableCreated
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

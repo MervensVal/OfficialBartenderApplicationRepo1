@@ -14,6 +14,7 @@ namespace IS_BartenderAppProject_MV.Models
         }
 
         public  DbSet<Drink> Drinks{ get; set; }
+        public DbSet<Order> Orders { get; set; }
 
     }
 }
