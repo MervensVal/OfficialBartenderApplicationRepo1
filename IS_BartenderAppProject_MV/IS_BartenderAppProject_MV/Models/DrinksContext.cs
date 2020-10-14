@@ -18,3 +18,16 @@ namespace IS_BartenderAppProject_MV.Models
 
     }
 }
+//----------Notes--------------
+/*The DbContext class is an integral part of Entity Framework.An instance of DbContext represents
+ * a session with the database which can be used to query and save instances of your entities to a database.
+ * DbContext in EF Core allows us to perform following tasks:
+
+Manage database connection
+Configure model & relationship
+Querying database
+Saving data to the database
+Configure change tracking
+Caching
+Transaction management*/
+
