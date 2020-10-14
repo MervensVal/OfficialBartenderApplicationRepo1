@@ -110,10 +110,6 @@ namespace IS_BartenderAppProject_MV.Controllers
                     {
                         return NotFound();
                     }
-                    else
-                    {
-                        throw;
-                    }
                 }
                 return RedirectToAction(nameof(Index));
             }

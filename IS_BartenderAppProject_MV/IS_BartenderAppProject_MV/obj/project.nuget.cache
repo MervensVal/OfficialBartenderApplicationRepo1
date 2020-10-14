@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FQIYaIS1k2C5EetChmYwl8OuejgCnAAYCuJVDmGJJE+mwKFl1Hti8CsAcgPcnIfTWv/0TGuNuJTwSS0HuaH3QQ==",
+  "dgSpecHash": "v7Oqkftqn9YWWcMcqLiWZeMBn48GrgKkSCdYp3P89aHEJ4ofEb+wPGXBmdy0OwwcjkWhC7Qc+nioHgAqdXJMYQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\valme\\source\\repos\\BartenderApplicationRepo1\\IS_BartenderAppProject_MV\\IS_BartenderAppProject_MV\\IS_BartenderAppProject_MV.csproj",
+  "projectFilePath": "C:\\Users\\valme\\Source\\Repos\\BartenderApplicationRepo1\\IS_BartenderAppProject_MV\\IS_BartenderAppProject_MV\\IS_BartenderAppProject_MV.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\valme\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\valme\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
